@@ -25,19 +25,19 @@ A PHP Charity web application.
 
 
 # Modules
-  1. Login & Logout
-    a. This module is used by admin , NGO and donors they can login in their respective profiles by using their login credentials.
-  2. Register
-    a. This module is used by NGO and donors they can register on site.
-  3. NGO Upload
-    a. This module describes the flow of documentation upload process in the system.
-  4. Update Account
-    a. This module describes the flow for updating the profile of users in the system.
-  5. Payment
-    a. This module describes the flow of payment by donor to NGO in the system.
-  6. Block Account
-    a. This module describes the flow of the blocking account of users and NGO.
-  7. Deregister
-    a. This module describes the flow of the deregister users and NGO.
-  8. Payment History
-    a. This module is responsible for maintaining reliable payment history. The information related to the payment made by the donor will be shared with respective NGO and admin.
+  1. Login & Logout:-
+    This module is used by admin , NGO and donors they can login in their respective profiles by using their login credentials.
+  2. Register:-
+    This module is used by NGO and donors they can register on site.
+  3. NGO Upload:-
+    This module describes the flow of documentation upload process in the system.
+  4. Update Account:-
+    This module describes the flow for updating the profile of users in the system.
+  5. Payment:-
+    This module describes the flow of payment by donor to NGO in the system.
+  6. Block Account:-
+    This module describes the flow of the blocking account of users and NGO.
+  7. Deregister:-
+    This module describes the flow of the deregister users and NGO.
+  8. Payment History:-
+    This module is responsible for maintaining reliable payment history. The information related to the payment made by the donor will be shared with respective NGO and admin.
